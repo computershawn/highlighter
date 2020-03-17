@@ -9,13 +9,13 @@ let highlights = [];
 let currentHighlight = null;
 let isFormOpen = false;
 let currentScreenIndex = 0;
-let currentDataset = miscData;
+let currentDataset = tdmsData;
 let msgShowing = false;
 
 
-/* Based on 'Make resizable div' by Hung Nguyen */
-/* https://codepen.io/ZeroX-DG/pen/vjdoYe */
 function makeResizableDiv(div) {
+    /* Based on 'Make resizable div' by Hung Nguyen */
+    /* https://codepen.io/ZeroX-DG/pen/vjdoYe */
     const element = document.querySelector(div);
     const handles = document.querySelectorAll(div + ' .handle')
     const minimum_size = 20;
