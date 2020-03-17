@@ -1,0 +1,46 @@
+{
+  "3a-Cross-Section-Dashboard": [
+    {
+      "invisionId": "TFVSO0JP68D",
+      "screenId": "403579466",
+      "screenTitle": "3a-Cross-Section-Dashboard",
+      "name": "none",
+      "left": 449,
+      "top": 232,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "invisionId": "TFVSO0JP68D",
+      "screenId": "403579466",
+      "screenTitle": "3a-Cross-Section-Dashboard",
+      "name": "none",
+      "left": 1169,
+      "top": 417,
+      "width": 40,
+      "height": 40
+    }
+  ],
+  "2a-Chart-Canvas": [
+    {
+      "invisionId": "QVW6O3TAHG5",
+      "screenId": "407026485",
+      "screenTitle": "2a-Chart-Canvas",
+      "name": "none",
+      "left": 1110,
+      "top": 225,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "invisionId": "QVW6O3TAHG5",
+      "screenId": "407026485",
+      "screenTitle": "2a-Chart-Canvas",
+      "name": "none",
+      "left": 1318,
+      "top": 552,
+      "width": 40,
+      "height": 40
+    }
+  ]
+}
