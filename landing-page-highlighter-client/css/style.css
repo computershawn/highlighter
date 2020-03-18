@@ -112,7 +112,9 @@ a:hover, a:active, a:visited {
     width: auto;
     height: auto;
     opacity: 0.75;
-    pointer-events: none;
+    -webkit-user-select: none; /* Safari */
+    -ms-user-select: none; /* IE 10+ and Edge */
+    user-select: none; /* Standard syntax */
 }
 
 #form-wrapper {
